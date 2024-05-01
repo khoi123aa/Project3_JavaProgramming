@@ -1,4 +1,4 @@
-package com.udacity.catpoint;
+package com.udacity.security;
 
 
 import org.junit.jupiter.api.Test;
